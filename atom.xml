@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.franklins.life/"/>
+  <link href="https://franklinwu19.github.io/"/>
   <updated>2018-08-19T13:35:14.918Z</updated>
-  <id>http://www.franklins.life/</id>
+  <id>https://franklinwu19.github.io/</id>
   
   <author>
     <name>Franklin Wu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Python Setup for Quantitative Research</title>
-    <link href="http://www.franklins.life/2018/08/17/Python/"/>
-    <id>http://www.franklins.life/2018/08/17/Python/</id>
+    <link href="https://franklinwu19.github.io/2018/08/17/Python/"/>
+    <id>https://franklinwu19.github.io/2018/08/17/Python/</id>
     <published>2018-08-18T02:44:26.000Z</published>
     <updated>2018-08-19T13:35:14.918Z</updated>
     
@@ -35,14 +35,14 @@
     </summary>
     
     
-      <category term="Python" scheme="http://www.franklins.life/tags/Python/"/>
+      <category term="Python" scheme="https://franklinwu19.github.io/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>Build a Machine Learning Pipeline for Financial Time Series Forecasting#0</title>
-    <link href="http://www.franklins.life/2018/08/17/machine-learning-pipeline/"/>
-    <id>http://www.franklins.life/2018/08/17/machine-learning-pipeline/</id>
+    <link href="https://franklinwu19.github.io/2018/08/17/machine-learning-pipeline/"/>
+    <id>https://franklinwu19.github.io/2018/08/17/machine-learning-pipeline/</id>
     <published>2018-08-18T02:07:21.000Z</published>
     <updated>2018-08-19T00:21:44.332Z</updated>
     
@@ -62,8 +62,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.franklins.life/2018/08/16/hello-world/hello-world/"/>
-    <id>http://www.franklins.life/2018/08/16/hello-world/hello-world/</id>
+    <link href="https://franklinwu19.github.io/2018/08/16/hello-world/hello-world/"/>
+    <id>https://franklinwu19.github.io/2018/08/16/hello-world/hello-world/</id>
     <published>2018-08-17T02:00:10.648Z</published>
     <updated>2018-08-18T23:55:42.830Z</updated>
     
